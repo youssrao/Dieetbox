@@ -1,0 +1,6 @@
+Assumptions Lean Startup:
+- Mensen hebben moeite met gezond eten.
+- Mensen zijn bereid te betalen voor het eten en de service
+- Mensen willen kunnen kiezen uit maaltijden.
+- Mensen hebben geen behoefte aan drinken bij dit pakket
+- Mensen kunnen het dieet volhouden
