@@ -8,7 +8,7 @@ Product:
 - lean canvas
 - validation board
 - Product presentatie:
-	- tijdlijn van het product ( van boer tot keuken ) 
+	- tijdlijn van het product ( van boer tot keuken ) - Damian
 	- op de tijdlijn aanduidingen van experimenten per fase
 	- lean canvas
 	- validation board
