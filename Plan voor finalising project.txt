@@ -1,6 +1,6 @@
 4 experimenten: 1 p.p. met als doel: bij de techno aan te kunnen duiden dat wij geleerd hebben van vorige experimenten en nu beter aanpakken.
 Ideeen voor experimenten:
-- zelf kant en klare maaltijden samenstellen(leverancier) of outsourcen?
+- zelf kant en klare maaltijden samenstellen(in-house) of outsourcen?
 - Logistiek (postNL)
 
 Product:
@@ -12,3 +12,24 @@ Product:
 	- op de tijdlijn aanduidingen van experimenten per fase
 	- lean canvas
 	- validation board
+
+
+-------------------------
+LEAN CANVAS:
+- Channels:
+	- Sales
+	- marketing
+	- communication (hoe bereiken wij klante en zij ons)
+- Key metric:
+	- Klanten
+	- aantal terugkerende klanten ( hoe weten wij dat we succesvol zijn?)
+- Cost structure:
+	- Hoeveel zijn wij kwijt?:
+		- opzetten bedrijf
+		- inkopen
+		- inhuren chef
+		- transport kosten
+	- hoe weegt dit op ten opzichte van onze revenue?
+- Solution:
+	- Include partners (postNL, inkoop groothandel)
+----------------------------------------------------------------------
